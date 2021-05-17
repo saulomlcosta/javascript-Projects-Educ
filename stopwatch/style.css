@@ -18,7 +18,7 @@ $base-color:$blue;
 }
 
 body {
-  background: $base-color;
+  background: #186aff;
   font-family: "HelveticaNeue-Light", "Helvetica NEue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   height: 100%;
 }
